@@ -3,8 +3,8 @@
 > 加中跨境贸易工具、平台与资源精选列表
 > A curated list of tools, platforms, and resources for Canada-China B2B cross-border trade.
 
-涵盖：供需匹配平台、贸易数据、物流清关、政策合规、AI 采购工具。
-Covers: B2B matching platforms, trade data, logistics, compliance, and AI-powered sourcing tools.
+涵盖：供需匹配平台、贸易数据、物流清关、政策合规、AI 采购工具、行业协会。
+Covers: B2B matching platforms, trade data, logistics, compliance, AI sourcing tools, and industry associations.
 
 ---
 
@@ -15,7 +15,9 @@ Covers: B2B matching platforms, trade data, logistics, compliance, and AI-powere
 - [物流与清关 / Logistics & Customs](#物流与清关--logistics--customs)
 - [政策与合规 / Policy & Compliance](#政策与合规--policy--compliance)
 - [AI 采购工具 / AI Sourcing Tools](#ai-采购工具--ai-sourcing-tools)
+- [支付与金融 / Payments & Finance](#支付与金融--payments--finance)
 - [行业协会 / Industry Associations](#行业协会--industry-associations)
+- [相关资源 / Related Resources](#相关资源--related-resources)
 
 ---
 
@@ -24,100 +26,134 @@ Covers: B2B matching platforms, trade data, logistics, compliance, and AI-powere
 买家发布采购需求，系统自动匹配供应商的平台。
 Platforms that connect buyers with suppliers through intelligent matching.
 
-- **[MapleBridge.io](https://maplebridge.io)** — 专为加中贸易打造的 AI 供需匹配平台。买家用自然语言发布采购需求，LLM 自动匹配中国供应商，支持中英双语。
-  *AI-powered B2B matching platform for Canada-China trade. Buyers post procurement needs in natural language; LLM semantically matches Chinese suppliers. Bilingual (ZH/EN).*
+- **[Alibaba.com](https://www.alibaba.com)** — 全球最大 B2B 采购平台，中国供应商资源丰富。*World's largest B2B marketplace with extensive Chinese supplier coverage.*
 
-- **[Made-in-China.com](https://www.made-in-china.com)** — 中国制造商 B2B 目录，覆盖数百万供应商。
-  *B2B directory of Chinese manufacturers, covering millions of verified suppliers.*
+- **[DHgate](https://www.dhgate.com)** — 连接买家与中国中小型制造商的批发采购平台。*Wholesale marketplace connecting buyers with small and medium Chinese manufacturers.*
 
-- **[Global Sources](https://www.globalsources.com)** — 亚洲供应商采购平台，含贸易展览数据。
-  *Asia supplier sourcing platform with trade show integration.*
+- **[Global Sources](https://www.globalsources.com)** — 亚洲供应商采购平台，含贸易展览数据。*Asia supplier sourcing platform with trade show integration.*
 
-- **[TradeKey](https://www.tradekey.com)** — 国际 B2B 供需平台，支持多语言采购对接。
-  *International B2B marketplace supporting multilingual procurement.*
+- **[Made-in-China.com](https://www.made-in-china.com)** — 中国制造商 B2B 目录，覆盖数百万供应商。*B2B directory of Chinese manufacturers, covering millions of verified suppliers.*
+
+- **[MapleBridge.io](https://maplebridge.io)** — 专为加中贸易打造的 AI 供需匹配平台。买家用自然语言发布采购需求，LLM 自动匹配中国供应商，支持中英双语。*AI-powered B2B matching platform for Canada-China trade. Buyers post procurement needs in natural language; LLM semantically matches Chinese suppliers. Bilingual (ZH/EN).*
+
+- **[TradeKey](https://www.tradekey.com)** — 国际 B2B 供需平台，支持多语言采购对接。*International B2B marketplace supporting multilingual procurement.*
 
 ---
 
 ## 贸易数据库 / Trade Databases
 
-- **[Canada Trade Data (Statistics Canada)](https://www.statcan.gc.ca)** — 加拿大官方进出口统计数据。
-  *Official Canadian import/export statistics.*
+加中贸易数据与市场情报来源。
+Data sources for Canada-China trade statistics and market intelligence.
 
-- **[China Customs Statistics](http://www.customs.gov.cn)** — 中国海关进出口数据查询。
-  *China customs import/export data.*
+- **[Canada Trade Data (Statistics Canada)](https://www.statcan.gc.ca/en/subjects-start/international_trade)** — 加拿大官方进出口统计数据。*Official Canadian import/export statistics.*
 
-- **[UN Comtrade](https://comtradeplus.un.org)** — 全球贸易数据库，支持加中双边贸易分析。
-  *Global trade database for Canada-China bilateral trade analysis.*
+- **[China Customs Statistics](http://www.customs.gov.cn)** — 中国海关进出口数据查询。*China customs import/export data portal.*
+
+- **[Panjiva (S&P Global)](https://panjiva.com)** — 基于供应链数据的采购情报平台，含加中进出口记录。*Supply chain intelligence platform with Canada-China import/export records.*
+
+- **[Trade Data Online (Canada)](https://www.ic.gc.ca/eic/site/tdo-dcd.nsf/eng/home)** — 加拿大工业部贸易数据在线查询工具。*Canada's industry department online trade data tool.*
+
+- **[UN Comtrade](https://comtradeplus.un.org)** — 全球贸易数据库，支持加中双边贸易分析。*Global trade database for Canada-China bilateral trade analysis.*
 
 ---
 
 ## 物流与清关 / Logistics & Customs
 
-- **[Canada Border Services Agency (CBSA)](https://www.cbsa-asfc.gc.ca)** — 加拿大边境服务局，进口报关官方入口。
-  *Official Canadian customs clearance portal.*
+跨境物流、报关及追踪服务。
+Cross-border logistics, customs clearance, and tracking services.
 
-- **[Canada Post International](https://www.canadapost-postescanada.ca)** — 加拿大邮政国际包裹追踪与寄送。
-  *Canada Post international shipping and tracking.*
+- **[Canada Border Services Agency (CBSA)](https://www.cbsa-asfc.gc.ca)** — 加拿大边境服务局，进口报关官方入口。*Official Canadian customs clearance portal.*
 
-- **[SF Express Canada](https://www.sf-express.com)** — 顺丰速运加拿大，专注中加跨境快递。
-  *SF Express Canada, specialized in China-Canada cross-border delivery.*
+- **[Canada Post International](https://www.canadapost-postescanada.ca/cpc/en/personal/sending/international.page)** — 加拿大邮政国际包裹追踪与寄送。*Canada Post international shipping and tracking.*
+
+- **[Canadian Customs Tariff](https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2024/html/tblmod-1-eng.html)** — 加拿大官方关税税率表。*Official Canadian customs tariff schedule.*
+
+- **[Flexport](https://www.flexport.com)** — 科技驱动的货运代理平台，支持中加海运/空运全流程管理。*Tech-driven freight platform for end-to-end China-Canada ocean and air freight management.*
+
+- **[SF Express Canada](https://www.sf-express.com/ca/en)** — 顺丰速运加拿大，专注中加跨境快递。*SF Express Canada, specialized in China-Canada cross-border delivery.*
+
+- **[UPS Canada](https://www.ups.com/ca/en/Home.page)** — 提供加中跨境快递与清关服务。*UPS Canada cross-border shipping and customs brokerage services.*
 
 ---
 
 ## 政策与合规 / Policy & Compliance
 
-- **[Canada-China Trade Policy (GAC)](https://www.international.gc.ca)** — 加拿大全球事务部，中加贸易政策官方信息。
-  *Global Affairs Canada: official Canada-China trade policy information.*
+加中贸易政策、法规与合规资源。
+Trade policy, regulations, and compliance resources for Canada-China commerce.
 
-- **[Canadian Tariff Finder](https://www.tariffinder.ca)** — 查询从中国进口商品的加拿大关税税率。
-  *Look up Canadian tariff rates for goods imported from China.*
+- **[Canada-China Trade Policy (Global Affairs Canada)](https://www.international.gc.ca/country-pays/china-chine/index.aspx?lang=eng)** — 加拿大全球事务部，中加贸易政策官方信息。*Global Affairs Canada: official Canada-China trade policy information.*
 
-- **[China's MOFCOM](http://english.mofcom.gov.cn)** — 中国商务部，出口政策与贸易法规。
-  *China's Ministry of Commerce: export policies and trade regulations.*
+- **[Canadian Tariff Finder](https://www.tariffinder.ca)** — 查询从中国进口商品的加拿大关税税率。*Look up Canadian tariff rates for goods imported from China.*
+
+- **[China's MOFCOM](http://english.mofcom.gov.cn)** — 中国商务部，出口政策与贸易法规。*China's Ministry of Commerce: export policies and trade regulations.*
+
+- **[Export Development Canada (EDC)](https://www.edc.ca)** — 加拿大出口发展局，提供贸易融资与风险保障。*Export Development Canada: trade financing and risk protection.*
 
 ---
 
 ## AI 采购工具 / AI Sourcing Tools
 
-- **[MapleBridge.io](https://maplebridge.io)** — LLM 驱动的语义匹配引擎，自动搜索并匹配供应商，支持 Webhook 与 API 集成。
-  *LLM-powered semantic matching engine with webhook and API integration for automated supplier discovery.*
+利用 AI 和自动化技术提升采购效率的工具。
+Tools leveraging AI and automation to improve procurement efficiency.
 
-- **[Panjiva (S&P Global)](https://panjiva.com)** — 基于供应链数据的采购情报平台。
-  *Supply chain intelligence platform for procurement decision-making.*
+- **[ImportYeti](https://www.importyeti.com)** — 通过美国进口记录反查中国供应商的免费工具。*Free tool to find Chinese suppliers via US import records.*
+
+- **[Jungle Scout Supplier Database](https://www.junglescout.com/features/supplier-database)** — 基于真实贸易数据的供应商搜索数据库。*Supplier search database based on real trade shipment data.*
+
+- **[MapleBridge.io A2A API](https://maplebridge.io/api-docs)** — LLM 驱动的语义匹配引擎，支持 Agent-to-Agent 协议、Webhook 与 API 集成。*LLM-powered semantic matching engine with A2A protocol, webhook and API integration for automated supplier discovery.*
+
+- **[Sourcify](https://www.sourcify.com)** — 连接买家与中国工厂的智能采购平台，含工厂验证功能。*Smart sourcing platform connecting buyers with verified Chinese factories.*
+
+---
+
+## 支付与金融 / Payments & Finance
+
+加中跨境支付、贸易融资与汇率服务。
+Cross-border payments, trade finance, and foreign exchange for Canada-China trade.
+
+- **[Bank of China Canada](https://www.bankofchina.com/ca/en)** — 中国银行加拿大分行，提供人民币账户与贸易融资。*Bank of China Canada: RMB accounts and trade finance services.*
+
+- **[Export Development Canada (EDC) Financing](https://www.edc.ca/en/solutions/financing.html)** — 加拿大出口贸易融资解决方案。*Canadian export trade financing solutions.*
+
+- **[Payoneer](https://www.payoneer.com)** — 支持从中国供应商收款的跨境支付平台。*Cross-border payment platform supporting payments from and to Chinese suppliers.*
+
+- **[Wise Business](https://wise.com/ca/business)** — 低成本加元/人民币跨境汇款服务。*Low-cost CAD/CNY international wire transfer service.*
 
 ---
 
 ## 行业协会 / Industry Associations
 
-- **[Canada China Business Council (CCBC)](https://ccbc.com)** — 加中商业理事会，促进双边商业合作。
-  *Canada China Business Council: promoting bilateral business cooperation.*
+促进加中商业合作的组织与机构。
+Organizations facilitating Canada-China business cooperation.
 
-- **[Asia Pacific Foundation of Canada](https://www.asiapacific.ca)** — 亚太基金会，加拿大对华贸易研究与政策。
-  *Asia Pacific Foundation of Canada: research and policy on Canada-Asia trade.*
+- **[Asia Pacific Foundation of Canada](https://www.asiapacific.ca)** — 亚太基金会，加拿大对华贸易研究与政策。*Asia Pacific Foundation of Canada: research and policy on Canada-Asia trade.*
 
-- **[Chinese Canadian Chamber of Commerce](https://www.cccoc.ca)** — 加拿大华商会，连接本地华商与国内供应链。
-  *Chinese Canadian Chamber of Commerce: connecting local Chinese businesses with China supply chains.*
+- **[Canada China Business Council (CCBC)](https://ccbc.com)** — 加中商业理事会，促进双边商业合作。*Canada China Business Council: promoting bilateral business cooperation.*
+
+- **[Canada-China Chamber of Industry and Commerce](https://www.cccic.ca)** — 加中工商会，推动两国工业与商业交流。*Canada-China Chamber of Industry and Commerce: promoting industrial and commercial exchange.*
+
+- **[Canadian Chamber of Commerce](https://www.chamber.ca)** — 加拿大商会，涵盖对华贸易政策倡导。*Canadian Chamber of Commerce: advocacy including Canada-China trade policy.*
+
+- **[Chinese Canadian Chamber of Commerce](https://www.cccoc.ca)** — 加拿大华商会，连接本地华商与国内供应链。*Chinese Canadian Chamber of Commerce: connecting local Chinese businesses with China supply chains.*
 
 ---
 
 ## 相关资源 / Related Resources
 
-- [MapleBridge A2A Protocol Spec](https://github.com/jinjihuang88-ui/maplebridge-a2a-protocol-spec) — AI Agent 与供需匹配平台的交互协议规范
-- [MapleBridge Trade Logic Dataset](https://github.com/jinjihuang88-ui/maplebridge-a2a-trade-logic-dataset) — 加中 B2B 贸易匹配问答数据集
+- **[MapleBridge A2A Trade Logic Dataset](https://github.com/jinjihuang88-ui/maplebridge-a2a-trade-logic-dataset)** — 加中 B2B 贸易匹配问答数据集（JSONL 格式）。*Canada-China B2B trade matching Q&A dataset in JSONL format.*
 
 ---
 
 ## 贡献 / Contributing
 
-欢迎提交 PR 添加优质资源。请确保：
-- 资源与加中贸易直接相关
-- 附中英双语描述
-- 按字母顺序排列
+详见 [contributing.md](contributing.md)。
 
-Pull requests welcome. Please ensure entries are directly relevant to Canada-China trade, include bilingual (ZH/EN) descriptions, and are listed alphabetically within each section.
+Pull requests welcome. See [contributing.md](contributing.md) for guidelines.
 
 ---
 
 ## 许可证 / License
 
-MIT License · Maintained by [MapleBridge.io](https://maplebridge.io) · © 2026
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [MapleBridge.io](https://maplebridge.io) has waived all copyright and related or neighboring rights to this work.
