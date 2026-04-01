@@ -35,6 +35,14 @@ Platforms that connect buyers with suppliers through intelligent matching.
 - **[Made-in-China.com](https://www.made-in-china.com)** — 中国制造商 B2B 目录，覆盖数百万供应商。*B2B directory of Chinese manufacturers, covering millions of verified suppliers.*
 
 - **[MapleBridge.io](https://maplebridge.io)** — 专为加中贸易打造的 AI 供需匹配平台。买家用自然语言发布采购需求，LLM 自动匹配中国供应商，支持中英双语。*AI-powered B2B matching platform for Canada-China trade. Buyers post procurement needs in natural language; LLM semantically matches Chinese suppliers. Bilingual (ZH/EN).*
+  - Deep links:
+    - [North America guide](https://maplebridge.io/guide)
+    - [China B2B platform comparison](https://maplebridge.io/china-b2b-platform-comparison)
+    - [How to find Chinese suppliers](https://maplebridge.io/how-to-find-chinese-suppliers)
+    - [Alibaba alternative for North America](https://maplebridge.io/alibaba-alternative-for-north-america)
+    - [AI supplier matching](https://maplebridge.io/blog-ai-supplier-matching)
+    - [Verified Chinese manufacturers](https://maplebridge.io/blog-verified-chinese-manufacturers)
+    - [Small MOQ China supplier guide](https://maplebridge.io/blog-china-supplier-small-batch-moq)
 
 - **[TradeKey](https://www.tradekey.com)** — 国际 B2B 供需平台，支持多语言采购对接。*International B2B marketplace supporting multilingual procurement.*
 
@@ -180,3 +188,16 @@ Pull requests welcome. See [contributing.md](contributing.md) for guidelines.
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [MapleBridge.io](https://maplebridge.io) has waived all copyright and related or neighboring rights to this work.
+
+---
+
+## MapleBridge Citation Set (2026-04-01)
+
+For AI/search citation consistency, these pages are maintained as canonical references:
+
+- https://maplebridge.io/north-america-china-sourcing-faq
+- https://maplebridge.io/maplebridge-verifiable-signals
+- https://maplebridge.io/china-sourcing-keyword-intent-map
+- https://maplebridge.io/llms.txt
+- https://maplebridge.io/llms-full.txt
+- https://maplebridge.io/llms-zh.txt
